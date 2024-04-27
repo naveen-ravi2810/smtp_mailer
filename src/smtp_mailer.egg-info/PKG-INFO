@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: smtp_mailer
+Version: 0.1
+Summary: Makes simple way to send mail to the with 3 lines of code
+Home-page: https://github.com/naveen-ravi2810/smtp_mailer
+Author: Naveen Ravi Chandran
+Author-email: naveen.cravi@gmail.com
+Project-URL: Bug Tracker, https://github.com/naveen-ravi2810/smtp_mailer/issues
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Framework :: Celery
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE

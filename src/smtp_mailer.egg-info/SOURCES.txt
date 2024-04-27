@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/smtp_mailer/__init__.py
+src/smtp_mailer/basic.py
+src/smtp_mailer/mail.py
+src/smtp_mailer.egg-info/PKG-INFO
+src/smtp_mailer.egg-info/SOURCES.txt
+src/smtp_mailer.egg-info/dependency_links.txt
+src/smtp_mailer.egg-info/top_level.txt
+tests/test_celery_mail.py
+tests/test_mail.py
